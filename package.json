@@ -1,0 +1,26 @@
+{
+  "name": "eth-gas-checker",
+  "version": "1.0.0",
+  "description": "check eth gas fee realtime",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banposeu/eth-gas-checker.git"
+  },
+  "keywords": [
+    "['eth'",
+    "'gasfee']"
+  ],
+  "author": "banpo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/banposeu/eth-gas-checker/issues"
+  },
+  "homepage": "https://github.com/banposeu/eth-gas-checker#readme",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
